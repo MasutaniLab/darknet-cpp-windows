@@ -10,6 +10,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arapaho", "..\arapaho\arapa
 		{55F71337-32A6-4C26-8CBA-A06A9183D6F2} = {55F71337-32A6-4C26-8CBA-A06A9183D6F2}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myarapaho", "..\myarapaho\myarapaho.vcxproj", "{59876DD9-0D48-44F0-802F-837DC6761A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -42,6 +44,18 @@ Global
 		{DC4CF4EA-0BF8-47B1-AD27-713E9EADD87C}.Release|Win32.Build.0 = Release|Win32
 		{DC4CF4EA-0BF8-47B1-AD27-713E9EADD87C}.Release|x64.ActiveCfg = Release|x64
 		{DC4CF4EA-0BF8-47B1-AD27-713E9EADD87C}.Release|x64.Build.0 = Release|x64
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|Win32.Build.0 = Debug|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|x64.ActiveCfg = Debug|x64
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Debug|x64.Build.0 = Debug|x64
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|Win32.ActiveCfg = Release|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|Win32.Build.0 = Release|Win32
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|x64.ActiveCfg = Release|x64
+		{59876DD9-0D48-44F0-802F-837DC6761A90}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
